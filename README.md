@@ -17,5 +17,7 @@ This case is for the following compentents :
 
   
 **For labeled lids**:
-Cave Case is still in the early stages so labeled lids have yet to be added
+Cave Case is still in the early stages so labeled lids will be added slowly
+Currently available:
+- Hip
 
