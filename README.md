@@ -1,17 +1,7 @@
-![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/ArcturusLOGO.png)
-# *Design by Whitney/Lixulia*
-![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/renderforarcturusnew.png)
-![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/renderforarcextensionnew.png)
-
-# **ARCTURUS IS NOW A FULLY OPEN SOURCE PROJECT AND I WILL BE TAKING A TEMP LEAVE FROM IT!!**
-*File directory for Arcturus, a SlimeVR case. (winterx renamed and completely redone)*
-
-
-
-Hi! Here youll find the files for printing the arcturus case, and its extension case. These are the sucessors to the winterx and xtension cases.
+Hi! Here youll find the files for printing the Cave case, for extensions head to Arcturus.
 
 This case is for the following compentents : 
-- 804040 Battery (or smaller)
+- 903052 Battery (or smaller)
 - BMI160
 - Wemos D1 Mini (micro b version)
 - tp4056 type C
@@ -25,16 +15,7 @@ This case is for the following compentents :
 - No supports necassary
 - .2mm print quality
 
-You can download both the case and extension files in one zip in the releases.
+  
+**For labeled lids**:
+Cave Case is still in the early stages so labeled lids have yet to be added
 
-*Recently I moved things into folders for cleanliness*
-
-Dovetail version is now main case.
-
-Just added alt lid versions, with body locations engraved into them.
-
-**For lids**:
-- LA or RA = Left or right arm.
-- LL or RL = Left or right leg.
-- LF or RF = Left or right ankle, or foot. *This is due to the shorthand A being taken by arm already.*
-- HIP or CH = Hip or chest.
