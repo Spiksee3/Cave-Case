@@ -25,12 +25,15 @@ Currently available:
 
 **Possible FAQ**
 - The switch hole snaps a bit when i force it in
+  
  it works better bcus you have more friction holding it in, also i have spent enough time so idrc.
 
 - Will you add more labelled cases?
+  
  yeah nah, unless you want me to make some more then just add it as an issue on github.
 
 - It doesn't fit the pieces i have/ fix it
+  
  i am finally free, go check arcturus or make a fork of this and do it yourself.
 
 **Tips for customising the case for your parts**
