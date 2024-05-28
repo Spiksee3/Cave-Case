@@ -40,5 +40,5 @@ Currently available:
 1. go into blender and make a cube, export it into cura and then use the sizing controls along with a millimetre ruler to make the shape of your component
 2. When done export out of cura by doing File>Export> and then set it as a wavefront .obj file
 3. put that into your 3d modelling software of choice, if you're using blender search up boolean tutorials online
-4. Good luck, this process is going to SUCK, it took me 3+ days as of writing this and my imus haven't arrived and i'm hoping that i dont have to reprint anything.
+4. Good luck, this process is going to SUCK, it took me 3+ days as of writing this and my imus haven't arrived and i'm hoping that i dont have to reprint anything bcus i've already wasted a third of a roll of filament.
 
